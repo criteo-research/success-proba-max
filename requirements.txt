@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+tqdm
+jax
+cvxpy
+cvxopt==1.3.0
