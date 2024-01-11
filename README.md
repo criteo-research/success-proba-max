@@ -1,6 +1,6 @@
 ## Maximizing the Success Probability of Policy Allocations in Online Systems
 
-Source code for the paper "Maximizing the Success Probability of Policy Allocations in Online Systems" published at the Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24).
+Source code for the [paper](https://arxiv.org/abs/2312.16267) "Maximizing the Success Probability of Policy Allocations in Online Systems" published at the Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24).
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
